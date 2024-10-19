@@ -1,1 +1,5 @@
 bioinformatics/
+MAFFT-HMM/*.fasta
+MAFFT-HMM/*.hmm
+MAFFT-HMM/*.out
+MAFFT-HMM/*.seed
